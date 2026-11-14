@@ -108,4 +108,32 @@ label intro:
     gc "I apologize but he will handle it on his own"
     gc "Byeee"
 
+    e ".........."
+    e "Follow me Mr [You]"
+
+    show text "You followed him to the office area where there are a bunch of case files were stored, He proceeds to pull of a coat from a wardrobe and hands it to you and then hands you three case files" with dissolve
+    pause(1.0)
+    hide text with dissolve
+
+    e "Welcome to Saint Clairemont once more, That jacket is our official Helics which should be worn at all times"
+    e "Because you are very oblivious to the situation, I cannot hand you any case relating to ghouls so those 3 are regular"
+    e "I'm extremely sorry for the rush, Allora shall acompany you and you may learn a lot from such experience. You will also be compensated well for solvong these cases"
+    e "Good luck"
+
+    menu:
+        "Pick a Case"
+        "THE POISONING OF MR DUBOIS":
+            jump dubois
+        "SILVERMAN CRUISADER":
+            jump silverman
+        "MISS ALLICIAS DEATH":
+            jump alicia
+
     return
+
+# Case 1: The Poisoning of Mr Dubois
+define hugo = Character("Hugo Benard")
+define manon = Character("Manon Dubois")
+define cammile = Character("Camile Russau")
+define jullien = Character("Jullien Moreau")
+
