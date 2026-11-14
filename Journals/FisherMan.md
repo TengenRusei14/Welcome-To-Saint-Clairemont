@@ -1,0 +1,10 @@
+Lately around the Silver Ponty Pay Lay Bay there have been a series of disappearances happening to fisherman who have been allocated plot 9 as their fishing area. A total of 17 bodies in a week from the same location raises serious concerns and theeories surrounding that location. And the theory that was formed around plot 9 was that of the SilverMan Cruisader. A man who suddenly disappeared in the late 90s, he was said to be an old man who fished at plot 9 for 3 years everyday but one day he just mysteriously disappeared......
+
+Until now but not as a fisherman but as a killer. Surely a man who is acclaimed as old did not die of some sort of cancer or old age and due to that he could no longer visit the plot but thats just a personal hypothesis
+
+lets speak to the residents around the bay first
+
+Mister Andrew Von Claw, the owner of the Bay, A 40 year old fat and fully bearded man who seems like he knows his fish extremely well. I extremely hoped he knew his clients as much as he knew his fish. I asked him if he knew anything about the SilverMan Cruisader and according to his memory he has never heard such a name which was weird considering everyone in the town spoke about it. I told him it was fine and then asked him if he knew any old man who loved fishing in Plot 9. After what seemed like an whole 30 minutes of thinking he uttered the name Shiroi Utai. After uttering the name he invited me inside his shop to come and speak and although I was hesitant I eventually agreed and we went in
+
+His shop was quite a very small shop. It was small because behind the counter was his processing unit in which both meat and fish was being processed which to me was extremely weird due to the fact that he was a fisherman. I stopped thinking about these little irrelevant questions and asked Mister Andrew who Shiroi Utai was. Shiroi Utai a old japanese man who believed that in order to eat you had to hunt it by yourself and so he came everyday to fish for food to return home and cook. Who wouldve thought that in such a town I'd stumble upon masochist and I'm a paranomal investigator not a police officer solving murder mysteries
+
